@@ -1,7 +1,7 @@
 # Checklist Pre-Trabajo - Seguridad en Torres
 
 ## 🔍 INSPECCIÓN INICIAL DEL SITIO
-- [ ] Verificar condiciones climáticas (viento < 40 km/h, sin tormentas)
+- [ ] Verificar condiciones climáticas (viento < 40 km/h (23 MPH), sin tormentas)
 - [ ] Identificar líneas eléctricas cercanas
 - [ ] Delimitar zona de trabajo y señalización
 - [ ] Verificar acceso seguro al área
