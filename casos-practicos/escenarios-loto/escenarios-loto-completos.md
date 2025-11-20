@@ -17,14 +17,21 @@ markdown
 
 **Paso 2 - Aislamiento Específico:**
 ANTENA A TRABAJAR:
+
 ✓ Transmisor OFF
+
 ✓ Interruptor principal BLOQUEADO
+
 ✓ Etiqueta: "NO ENERGIZAR - MANTENIMIENTO EN CURSO"
+
 ✓ Cable coaxial DESCONECTADO y PUESTO A TIERRA
 
 ANTENAS VECINAS:
+
 ✓ Delimitación área de trabajo
+
 ✓ Señalización riesgo RF
+
 ✓ Monitoreo continuo niveles RF
 
 text
